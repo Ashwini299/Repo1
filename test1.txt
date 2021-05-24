@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0456-AA0E
+
+ Directory of C:\Users\MahishaA\Desktop\Myproject
+
+05/24/2021  09:08 PM    <DIR>          .
+05/24/2021  09:08 PM    <DIR>          ..
+05/24/2021  09:08 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  452,896,567,296 bytes free
